@@ -32,10 +32,6 @@ Running the Experiment
 The main script executes the full evaluation on both a tabular (EHR-style) dataset and a low-resolution imaging dataset.
 It takes less than 3 minutes on a single CPU core.
 
-git clone https://github.com/yourusername/MAEF-XAI.git
-cd MAEF-XAI
-python evaluate_xai.py
-
 
 📊 Key Findings
 
